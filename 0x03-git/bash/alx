@@ -1,4 +1,2 @@
 #!/bin/bash
-"ALX School"
->>>>>>> master
->>>>>>> update_script
+echo "ALX School"
